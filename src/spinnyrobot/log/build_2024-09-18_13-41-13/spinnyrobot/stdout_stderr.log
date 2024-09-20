@@ -1,0 +1,45 @@
+running egg_info
+creating build/spinnyrobot/spinnyrobot.egg-info
+writing build/spinnyrobot/spinnyrobot.egg-info/PKG-INFO
+writing dependency_links to build/spinnyrobot/spinnyrobot.egg-info/dependency_links.txt
+writing entry points to build/spinnyrobot/spinnyrobot.egg-info/entry_points.txt
+writing requirements to build/spinnyrobot/spinnyrobot.egg-info/requires.txt
+writing top-level names to build/spinnyrobot/spinnyrobot.egg-info/top_level.txt
+writing manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+reading manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+writing manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+copying spinnyrobot/__init__.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+copying spinnyrobot/taskmanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+copying spinnyrobot/spinnyrobot.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+copying spinnyrobot/camerascenemanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models
+copying spinnyrobot/models/model.sdf -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models
+running install
+running install_lib
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/__init__.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/taskmanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/spinnyrobot.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/models
+copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models/model.sdf -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/models
+copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/camerascenemanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/taskmanager.py to taskmanager.cpython-310.pyc
+byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/spinnyrobot.py to spinnyrobot.cpython-310.pyc
+byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/camerascenemanager.py to camerascenemanager.cpython-310.pyc
+running install_data
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index
+creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index/packages
+copying resource/spinnyrobot -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/spinnyrobot
+running install_egg_info
+Copying build/spinnyrobot/spinnyrobot.egg-info to /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing spinnyrobot script to /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/spinnyrobot
+writing list of installed files to '/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/install.log'

@@ -1,0 +1,47 @@
+[0.460s] Invoking command in '/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot': PYTHONPATH=/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/spinnyrobot build --build-base /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build install --record /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/install.log --single-version-externally-managed install_data
+[0.618s] running egg_info
+[0.619s] creating build/spinnyrobot/spinnyrobot.egg-info
+[0.619s] writing build/spinnyrobot/spinnyrobot.egg-info/PKG-INFO
+[0.619s] writing dependency_links to build/spinnyrobot/spinnyrobot.egg-info/dependency_links.txt
+[0.619s] writing entry points to build/spinnyrobot/spinnyrobot.egg-info/entry_points.txt
+[0.619s] writing requirements to build/spinnyrobot/spinnyrobot.egg-info/requires.txt
+[0.619s] writing top-level names to build/spinnyrobot/spinnyrobot.egg-info/top_level.txt
+[0.619s] writing manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+[0.621s] reading manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+[0.621s] writing manifest file 'build/spinnyrobot/spinnyrobot.egg-info/SOURCES.txt'
+[0.621s] running build
+[0.621s] running build_py
+[0.622s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build
+[0.622s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib
+[0.622s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+[0.622s] copying spinnyrobot/__init__.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+[0.622s] copying spinnyrobot/taskmanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+[0.622s] copying spinnyrobot/spinnyrobot.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+[0.622s] copying spinnyrobot/camerascenemanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot
+[0.622s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models
+[0.622s] copying spinnyrobot/models/model.sdf -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models
+[0.623s] running install
+[0.623s] running install_lib
+[0.623s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+[0.623s] copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/__init__.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+[0.623s] copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/taskmanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+[0.623s] copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/spinnyrobot.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+[0.623s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/models
+[0.624s] copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/models/model.sdf -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/models
+[0.624s] copying /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build/lib/spinnyrobot/camerascenemanager.py -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot
+[0.624s] byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/__init__.py to __init__.cpython-310.pyc
+[0.624s] byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/taskmanager.py to taskmanager.cpython-310.pyc
+[0.625s] byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/spinnyrobot.py to spinnyrobot.cpython-310.pyc
+[0.625s] byte-compiling /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot/camerascenemanager.py to camerascenemanager.cpython-310.pyc
+[0.625s] running install_data
+[0.625s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index
+[0.625s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index
+[0.626s] creating /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index/packages
+[0.626s] copying resource/spinnyrobot -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/ament_index/resource_index/packages
+[0.626s] copying package.xml -> /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/share/spinnyrobot
+[0.626s] running install_egg_info
+[0.627s] Copying build/spinnyrobot/spinnyrobot.egg-info to /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages/spinnyrobot-0.0.0-py3.10.egg-info
+[0.628s] running install_scripts
+[0.643s] Installing spinnyrobot script to /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/spinnyrobot
+[0.646s] writing list of installed files to '/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/install.log'
+[0.665s] Invoked command in '/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot' returned '0': PYTHONPATH=/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/install/spinnyrobot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/spinnyrobot build --build-base /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/build install --record /home/ubuntu/Desktop/Week 2 Training/TR-Autonomy-2/src/spinnyrobot/build/spinnyrobot/install.log --single-version-externally-managed install_data
